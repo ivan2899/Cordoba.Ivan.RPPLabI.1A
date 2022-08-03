@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1659533174 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial1\recuperatorioparcial1\bibliotecageneral.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1659472345 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial1\recuperatorioparcial1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+
+1659472345 d:\importante\programacion\material en proceso\programacion__codeblocks\parcial1\recuperatorioparcial1\fecha.h
+
+1659534742 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial1\recuperatorioparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bibliotecaGeneral.h"
+	"cliente.h"
+	"informes.h"
+	"prestamo.h"
+
+1659472345 d:\importante\programacion\material en proceso\programacion__codeblocks\parcial1\recuperatorioparcial1\bibliotecageneral.h
+
+1659533961 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial1\recuperatorioparcial1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bibliotecaGeneral.h"
+	"cliente.h"
+
+1659534101 d:\importante\programacion\material en proceso\programacion__codeblocks\parcial1\recuperatorioparcial1\cliente.h
+
+1659528892 d:\importante\programacion\material en proceso\programacion__codeblocks\parcial1\recuperatorioparcial1\informes.h
+	"cliente.h"
+
+1659534082 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial1\recuperatorioparcial1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"cliente.h"
+	"prestamo.h"
+
+1659534338 source:d:\importante\programacion\material en proceso\programacion__codeblocks\parcial1\recuperatorioparcial1\prestamo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bibliotecaGeneral.h"
+	"prestamo.h"
+	"cliente.h"
+	"informes.h"
+
+1659533325 d:\importante\programacion\material en proceso\programacion__codeblocks\parcial1\recuperatorioparcial1\prestamo.h
+	"cliente.h"
+
